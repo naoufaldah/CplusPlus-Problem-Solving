@@ -1,4 +1,2 @@
-# CppPractice
-Some Exercices To practice :D
 
-Learning C++ !! 
+Practicing some Problem Solving w/ C++
